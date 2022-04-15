@@ -2,7 +2,7 @@
 
 This is the Space Travelers Organization. 
 
-We are currently developing an educational game as part of ESPOL Community Service project for middleschoolers.
+We are currently developing an educational game as part of ESPOL Community Service project for Sagrada Familia de Nazareth School.
 
 This project was originally part of a solution we developed for NASA Space Apps Challenge Hackathon. 
 
